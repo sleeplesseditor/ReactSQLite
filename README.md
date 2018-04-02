@@ -11,4 +11,4 @@ To get the app up and running, follow these instructions:
 2) npm install
 3) npm start
 
-In addition, you'll need to unzip the 'us-census.db.gz' file, so the app has a database to read!
+In addition, you'll need to unzip the 'us-census.db.gz' file into the 'src/components' folder, so the app has a database to read!

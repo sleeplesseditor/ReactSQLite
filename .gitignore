@@ -21,4 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # database file
-/us-census.db
+/database/us-census.db
