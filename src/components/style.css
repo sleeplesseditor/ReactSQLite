@@ -3,5 +3,10 @@
 }
 
 .census-table {
+  margin-top: 20px;
+}
+
+.selector {
+  width: 50%;
   margin-top: 40px;
 }
