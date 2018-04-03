@@ -6,9 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The app is currently WIP – the back-end has yet to be finished and other SQLite approaches are being considered. To get the current app up and running, follow these instructions:
 
-1) cd ReactSQLite
-2) npm install
-3) npm start
+1) cd ReactSQLite/base and cd/ReactSQLite/base/client
+2) npm install in both directories
+3) cd ReactSQLite/base
+4) npm run dev
 
 In addition, you'll need to unzip the 'us-census.db.gz' file into the 'src/components' folder, so the app has a database to read!
 
