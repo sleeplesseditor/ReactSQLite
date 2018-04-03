@@ -12,3 +12,7 @@ To get the app up and running, follow these instructions:
 3) npm start
 
 In addition, you'll need to unzip the 'us-census.db.gz' file into the 'src/components' folder, so the app has a database to read!
+
+![screen shot 2018-04-03 at 09 01 40](https://user-images.githubusercontent.com/25869284/38236975-bcd302d4-371d-11e8-989b-0bb9e522a632.png)
+
+App upon loading
