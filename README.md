@@ -1,11 +1,10 @@
 # ReactSQLite
 
-This is a simple React application designed to display data from a local SQLite database file.
+This is a simple React application designed to display data from a local SQLite database file. The app has been built with React, Redux, Express, and SQLite3.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-
-To get the app up and running, follow these instructions:
+The app is currently WIP – the back-end has yet to be finished and other SQLite approaches are being considered. To get the current app up and running, follow these instructions:
 
 1) cd ReactSQLite
 2) npm install

@@ -1,7 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/base/node_modules
+/client/node_modules
 
 # testing
 /coverage
@@ -21,4 +22,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # database file
-/database/us-census.db
+/base/us-census.db
