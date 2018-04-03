@@ -5,5 +5,12 @@ let db = new sqlite3.Database('./us-census.db', sqlite3.OPEN_READONLY, (err) => 
    if (err) {
        console.error(err.message);
    }
-   console.log('Connected to US Census Database');
+   console.log('Connected to US Census Database.');
 });
+
+/*//Query Database First Col
+db.get(sql, )
+
+
+
+module.exports = new Database();*/

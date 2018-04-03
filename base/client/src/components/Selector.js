@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
 import './style.css';
 
-/* var sqlite3 = require('sqlite3').verbose();
+/*import Database from '../../../index';
+
+var connection = Database.getConnection();*/
+
+/* 
+Potential use of db
+var sqlite3 = require('sqlite3').verbose();
 let dbSrc = 'us-census.db';
 
 var fetchDBData = (census_learn_sql) => {
@@ -14,9 +20,18 @@ var fetchDBData = (census_learn_sql) => {
         db.close();
         return queries;
 };
+
+
 */
 
 class Selector extends Component {
+    /* 
+    constructor(props) {
+        super(props);
+        this.state = {};
+    }
+    */
+
     render() {
         return(
             <div className="form-group">
