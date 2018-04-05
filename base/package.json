@@ -19,6 +19,7 @@
   "dependencies": {
     "concurrently": "^3.5.1",
     "nodemon": "^1.17.3",
+    "sqlite-json-export": "0.0.1",
     "sqlite3": "^4.0.0"
   }
 }
