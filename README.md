@@ -16,3 +16,5 @@ In addition, you'll need to unzip the 'us-census.db.gz' file into the 'base' fol
 ![screen shot 2018-04-03 at 09 01 40](https://user-images.githubusercontent.com/25869284/38236975-bcd302d4-371d-11e8-989b-0bb9e522a632.png)
 
 App upon loading
+
+I haven't been able to find a way to properly fetch data from the SQLite database to the specific React components it would be rendered in ('Selector' and 'SQLTable'). A potential refactoring of the project to a React Native solution might be more valid, given the wider use of SQLite with that framework and potential support availability.

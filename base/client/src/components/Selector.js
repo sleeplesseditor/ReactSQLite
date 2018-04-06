@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './style.css';
 
-/*import Database from '../../../index';
+/* Potentially import database as exported function
 
 var connection = Database.getConnection();*/
 
